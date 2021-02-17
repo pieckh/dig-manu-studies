@@ -1,6 +1,4 @@
-# pieckh.github.io
-Hier testet der Kurs "Digital Manuscript Studies" Multi Picture Storiiies.
+# Seminarprojekte
+Hier veröffentlicht der Kurs "Digital Manuscript Studies" die Projekte der Teilnehmer:innen.
 
-Wir generieren Präsentationen mit einzelnen IIIF-Images im Storiiies Editor und kombinieren diese im Nachgang in einem Manifest.
-
-Siehe: [Storiiies Editor](https://storiiies-editor.cogapp.com/)
+Die Übung fand im Wintersemester 2020/21 digital am Historischen Seminar der Albert-Ludwigs-Universität Freiburg statt.
