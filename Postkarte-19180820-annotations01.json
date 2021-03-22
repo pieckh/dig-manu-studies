@@ -1,0 +1,62 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/504d48e060c811eb808d8d1c1c40931f/annotations.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@type": "oa:Annotation",
+"@id": "72d6131060c811eb99ea3b98fec17a93",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Wir befinden uns hier im Ortsetter in Wyhl am Kaiserstuhl, an der heutigen Ecke Rheinstraße (früher „Waidgang“) und Hauptstraße 16 (früher „lange Gass“)"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611769755147PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-3133.868000000009,-2.8037572263883703e-12,10476.736000000003,6260.000000000002"
+},
+{
+"@type": "oa:Annotation",
+"@id": "8dd256b060c811eb99ea3b98fec17a93",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Die Konzession für den Wien- und Bierausschank im abgebildeten Gasthaus Krone wurde 1810 von Anton Iber erhoben. Das Gebäude wurde ursprünglich 1657 als Gemeinde Stube erbaut und erfüllte somit über Jahrhunderte hinweg wichtige Funktionen für das Dorfleben. Unter anderem wurde hier bis 1906 Rat und Gericht gehalten. Seit 1974 befindet sich hier die St-Blasius Apotheke."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611769755147PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-612.1409255915985,-540.7552759052468,6062.925925925927,3622.685185185186"
+},
+{
+"@type": "oa:Annotation",
+"@id": "a223e84060c811eb99ea3b98fec17a93",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Schwieriger gestaltet es sich, die abgebildete „Brauerei Adolf Bauer“ einzuordnen…"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611769755147PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-3133.8680000000013,-47.02676192383648,10476.736000000003,6260.000000000002"
+},
+{
+"@type": "oa:Annotation",
+"@id": "c6e05b5060c811eb99ea3b98fec17a93",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Fritz Späth erwähnt in der Ortschronik von 1963 keine Brauerei mit diesem Namen… Hier handelt es sich um das Gasthaus zur Linde, für welches die Konzession als Schenkwirtschaft 1877 erteilt wurde. Abgebildet sind vermutlich die damaligen Besitzer Adolf Bauer und Bertha Bauer"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611769755147PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-670.4998402287473,2441.0096708544056,6062.925925925927,3622.685185185186"
+},
+{
+"@type": "oa:Annotation",
+"@id": "cfc25fc060c811eb99ea3b98fec17a93",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Zum Text..."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611769755147PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-3133.8680001763305,-99.08430103682436,10476.736,6260.000000000001"
+}
+]
+}

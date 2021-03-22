@@ -1,0 +1,29 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/b0a132005b1f11eb8e865d1ef81632b0/annotations.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@type": "oa:Annotation",
+"@id": "e58c67f05b1f11eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Eben erfahre \nIch, dass Sie im\nWinter in der Mühle \nwaren u[nd] haben mich\nnicht besucht. Das müssen Sie \njetzt wieder gut \nmachen "
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611147507253PostkarteEssig2verso20201209175818gedreht.ptif/canvas/c0#xywh=-266.0850014447878,3970.8155314757482,5237.531199999999,3129.5"
+},
+{
+"@type": "oa:Annotation",
+"@id": "f7aebd705b1f11eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Nur diese Woche habe ich noch Zeit."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611147507253PostkarteEssig2verso20201209175818gedreht.ptif/canvas/c0#xywh=-237.47316821465733,-1086.7665118679024,5167.389060887512,3129.5"
+}
+]
+}

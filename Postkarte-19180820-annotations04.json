@@ -1,0 +1,29 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/7177499060cc11eb92aa33cad87ec958/annotations.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@type": "oa:Annotation",
+"@id": "87f0761060cc11eba54f8bdf12c77502",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "mir es durch Karte mit.\nSeien Sie \ninzwischen bestens gegrüßt\nvon Ihrem \nFritz Klipfel \n"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611771535358PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=25.9277652733815,2005.4157830854288,3508.6376886145417,2096.461334019205"
+},
+{
+"@type": "oa:Annotation",
+"@id": "9ce9e06060cc11eba54f8bdf12c77502",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Dann fiel Fritz Klipfel noch etwas ein... "
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611771535358PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-2745.8407407417526,256.9975850857027,9700.68148148148,5796.2962962962965"
+}
+]
+}

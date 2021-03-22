@@ -1,0 +1,51 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/0bd3f58060cb11ebac3f39a29e96b35c/annotations.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@type": "oa:Annotation",
+"@id": "184ba3d060cb11eba54f8bdf12c77502",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Feldpost"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611770941330PostkarteEssig2rectoquer2.ptif/canvas/c0#xywh=2758.1017320267497,-294.15078703866186,2377.017961248286,1420.3023191015093"
+},
+{
+"@type": "oa:Annotation",
+"@id": "32cd604060cb11eba54f8bdf12c77502",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Poststempel vom 20.08.1918 "
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611770941330PostkarteEssig2rectoquer2.ptif/canvas/c0#xywh=4202.2398745527125,1226.4720665921313,2377.017961248286,1420.3023191015093"
+},
+{
+"@type": "oa:Annotation",
+"@id": "7918861060cb11eba54f8bdf12c77502",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Abs[ender] Leutnant und Kompanie Führer\nKlipfel \nz[ur] Z[eit] Weisweil \nb[ei] Kenzingen \n"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611770941330PostkarteEssig2rectoquer2.ptif/canvas/c0#xywh=3692.733272970788,-182.5172236786039,2852.421553497943,1704.3627829218112"
+},
+{
+"@type": "oa:Annotation",
+"@id": "ccf3a80060cb11eba54f8bdf12c77502",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "z[u] H[änden]\nFräulein \nHilde Essig \nb[ei] Wilhelm Futterer \nOberrotweil \n"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611770941330PostkarteEssig2rectoquer2.ptif/canvas/c0#xywh=2114.993040035378,278.8851247117401,4928.984444444445,2945.1388888888896"
+}
+]
+}

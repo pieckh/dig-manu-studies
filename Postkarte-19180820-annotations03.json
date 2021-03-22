@@ -1,0 +1,29 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/aaf7ed8060c911ebac3f39a29e96b35c/annotations.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@type": "oa:Annotation",
+"@id": "d5520f7060c911ebbb8c633b1d0823c2",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Sehr verehrtes Frl. Essig! 19.8.18\nBin heute nach Wyhl gefahren u[nd] dachte Sie \nhier zu treffen, was leider nicht der Fall war.\nMusste leider auch erfahren dass Ihr Herr Vater\ngestorben ist. Empfangen Sie bitte, wenn auch\nverspätet, mein herzliches Beileid. Ich habe Urlaub\nbis zum 28. Es würde mich freuen, wenn ich \nSie in dieser Woche einmal treffen könnte\nVielleicht kommen Sie mal hierher u[nd] teilen \n"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611770371961PostkarteEssig2rectoquer.ptif/canvas/c0#xywh=-831.6376564060121,3065.675955637759,6085.2018518518535,3635.995370370371"
+},
+{
+"@type": "oa:Annotation",
+"@id": "f635b52060c911ebbb8c633b1d0823c2",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Der Platz reichte Lt. Klipfel nicht aus, darum schrieb er vorne weiter..."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611770371961PostkarteEssig2rectoquer.ptif/canvas/c0#xywh=-3137.114400009689,442.7542898715125,10515.228799999999,6282.999999999999"
+}
+]
+}
