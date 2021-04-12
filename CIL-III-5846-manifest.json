@@ -1,12 +1,12 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://8da93d0b-d014-43c0-a5b7-8136fb3b4ee4",
+	"@id": "https://pieckh.github.io/dig-manu-studies/CIL-III-5846-manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Tranksription der zu CIL III 5846 gehörigen Scheden.",
 	"metadata": [],
 	"description": [
 		{
-			"@value": "Mit dieser Präsentation soll das Arbeiten an der Inschrift CIL 5846 erleichtert werden. Durch die Transkription der Scheden und die digitale Aufbereitung, kann eine eingehendere Beschäftigung mit bereits vergangener Forschung und der Inschrift erfolgen. Farbcode der Annotationen:  blau: Vom Schedenautor getätigte Notiz bzw. Hinweis des Schedenautors an den Herausgeber; rot: Vom Schedenautor gestrichene Notiz; grün: Abschrift der ursprünglichen Inschrift; pink: Strittige Transkription.",
+			"@value": "Mit dieser Präsentation soll das Arbeiten an der Inschrift CIL 5846 erleichtert werden. Durch die Transkription der Scheden und die digitale Aufbereitung, kann eine eingehendere Beschäftigung mit bereits vergangener Forschung und der Inschrift erfolgen. Farbcode der Annotationen für Ansicht in Mirador 2:  Blau: Vom Schedenautor getätigte Notiz bzw. Hinweis des Schedenautors an den Herausgeber; Rot: Vom Schedenautor gestrichene Notiz; Grün: Abschrift der ursprünglichen Inschrift; Pink: Strittige Transkription.",
 			"@language": "de"
 		}
 	],
