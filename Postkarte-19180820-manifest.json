@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/2/context.json",
-   "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/504d48e060c811eb808d8d1c1c40931f/manifest.json",
+   "@id":"https://pieckh.github.io/dig-manu-studies/Postkarte-19180820-manifest.json",
    "@type":"sc:Manifest",
    "label":{
       "@value":"Postkarte Fritz Klipfel-Hilde Essig ",
