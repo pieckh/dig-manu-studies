@@ -1,0 +1,327 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://pieckh.github.io/dig-manu-studies/CIL-search-manifest.json",
+	"@type": "sc:Manifest",
+	"label": "Tranksription der zu CIL III 5846 gehörigen Scheden.",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Mit dieser Präsentation soll das Arbeiten an der Inschrift CIL 5846 erleichtert werden. Durch die Transkription der Scheden und die digitale Aufbereitung, kann eine eingehendere Beschäftigung mit bereits vergangener Forschung und der Inschrift erfolgen. Farbcode der Annotationen für Ansicht in Mirador 2:  Blau: Vom Schedenautor getätigte Notiz bzw. Hinweis des Schedenautors an den Herausgeber; Rot: Vom Schedenautor gestrichene Notiz; Grün: Abschrift der ursprünglichen Inschrift; Pink: Strittige Transkription.",
+			"@language": "de"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "http://annotate.metascripta.org/search-api/dig-manu-studies/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+},
+	"sequences": [
+		{
+			"@id": "http://5cd7a375-b6bc-441b-b136-dfb6f1996ffb",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://2914beef-b5fb-45a4-bfb6-c8728b745b52",
+					"@type": "sc:Canvas",
+					"label": "Inscription on a gravestone in the roman province of Raetia (CIL III 5846; SCH0002145)",
+					"height": 3304,
+					"width": 2640,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://93d3c730-2872-42bb-b25c-3c359109f3dc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://storiiies-images.cogapp.com/iiif/2/1614792652585III05846SCH01.ptif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://storiiies-images.cogapp.com/iiif/2/1614792652585III05846SCH01.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 8722560,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3304,
+								"width": 2640
+							},
+							"on": "http://2914beef-b5fb-45a4-bfb6-c8728b745b52"
+						}
+					],
+					"otherContent": [
+      {         "@id": "https://pieckh.github.io/dig-manu-studies/CIL-III-5846-annotations01.json",
+			 				"@type": "sc:AnnotationList",
+							"label": "Annotationen zur ersten Schede"
+				}
+],
+							"related": ""
+				},
+				{
+					"@id": "http://ee10c9cd-4c0e-4ef8-abf3-f86c7fdf5b42",
+					"@type": "sc:Canvas",
+					"label": "Inscription on a gravestone in the roman province of Raetia (CIL III 5846; SCH0002146)",
+					"height": 2596,
+					"width": 3361,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2607c8b1-2974-4976-bc88-190a3786fb5a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://storiiies-images.cogapp.com/iiif/2/1614793222545III05846SCH02.ptif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://storiiies-images.cogapp.com/iiif/2/1614793222545III05846SCH02.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 8725156,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2596,
+								"width": 3361
+							},
+							"on": "http://ee10c9cd-4c0e-4ef8-abf3-f86c7fdf5b42"
+						}
+					],
+					"otherContent": [
+      {         "@id": "https://pieckh.github.io/dig-manu-studies/CIL-III-5846-annotations02.json",
+			 				"@type": "sc:AnnotationList",
+							"label": "Annotationen zur zweiten Schede"
+				}
+],
+					"related": ""
+				},
+				{
+					"@id": "http://bf0fd77f-209c-451f-9834-6b57292fa450",
+					"@type": "sc:Canvas",
+					"label": "Inscription on a gravestone in the roman province of Raetia (CIL III 5846; SCH0002147)",
+					"height": 2734,
+					"width": 1698,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2e5aed5b-258b-4412-a16b-f2c28c46a174",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://storiiies-images.cogapp.com/iiif/2/1614793875165III05846SCH03.ptif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://storiiies-images.cogapp.com/iiif/2/1614793875165III05846SCH03.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4642332,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2734,
+								"width": 1698
+							},
+							"on": "http://bf0fd77f-209c-451f-9834-6b57292fa450"
+						}
+					],
+					"otherContent": [
+      {         "@id": "https://pieckh.github.io/dig-manu-studies/CIL-III-5846-annotations03.json",
+			 				"@type": "sc:AnnotationList",
+							"label": "Annotationen zur dritten Schede"
+				}
+],
+					"related": ""
+				},
+				{
+					"@id": "http://778f6878-532e-4f07-8096-8bf7367ad132",
+					"@type": "sc:Canvas",
+					"label": "Inscription on a gravestone in the roman province of Raetia SCH0002147",
+					"height": 3379,
+					"width": 2648,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bbce3d51-2bed-4c61-8d5c-1f426f309014",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://storiiies-images.cogapp.com/iiif/2/1614794384921III05846SCH04.ptif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://storiiies-images.cogapp.com/iiif/2/1614794384921III05846SCH04.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 8947592,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3379,
+								"width": 2648
+							},
+							"on": "http://778f6878-532e-4f07-8096-8bf7367ad132"
+						}
+					],
+					"otherContent": [
+      {         "@id": "https://pieckh.github.io/dig-manu-studies/CIL-III-5846-annotations04.json",
+			 				"@type": "sc:AnnotationList",
+							"label": "Annotationen zur vierten Schede"
+				}
+],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
