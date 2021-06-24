@@ -93,12 +93,12 @@
 							"on": "http://2914beef-b5fb-45a4-bfb6-c8728b745b52"
 						}
 					],
-					"otherContent": [
-      {         "@id": "https://pieckh.github.io/dig-manu-studies/CIL-III-5846-annotations01.json",
-			 				"@type": "sc:AnnotationList",
-							"label": "Annotationen zur ersten Schede"
-				}
-],
+					"otherContent": [ {
+        "@id": "http://example.com/sas/annotation/list/73ab585915f14cf7df45dcb1df424ef9.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+	],
 							"related": ""
 				},
 				{
